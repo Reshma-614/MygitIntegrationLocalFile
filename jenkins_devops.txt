@@ -1,0 +1,45 @@
+ 1) What is jenkins 
+ -Jenkins is open source automation  server that can help developer  to buid ,deployee
+ and automate their projects.
+ - jenkins can extented through pluging .
+  - web based user inteface .
+  - integrate with testng tools.
+
+
+
+2) Types of jobs/projects in Jenkins:-
+     
+    Types of jobs in Jenkins Folling Bellow
+
+    1) Freestyle Project.
+    2)Pipeline
+    3) Multi Configuration.
+    4) Folder.
+    5) Multibranch Pipeline.
+    6) Organization Folder.
+
+1) Freestly Project :- Jenkins freestyle project is the general purpose job that will clone the projects from the Source Code Management (SCM) like Github, Gitlab, and Bit Bucket.
+   - Executes steps serialy .
+
+2) Pipleline :- long running activites  and multiple job runnning on same time suitable for that .
+
+3) Multi configuration project :- 
+
+
+
+
+5) Basics of Jenkins pipelines, types, and how to create and configure them.
+
+ Types of Jenkins :- 
+  1) Declarative Pipeline.
+  2) Scripted Pipeline.
+  3) Multibranch 
+  4) Shared Library.
+
+
+1) Declarative Pipeline :- 
+2) Scripted Pipeline :- 
+
+    
+
+    
